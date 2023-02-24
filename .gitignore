@@ -1,7 +1,0 @@
-/node_modules
-/public/node_modules
-/public/todo.js
-/public/temp
-dump.rdb
-/public/js/reg.js
-.env
